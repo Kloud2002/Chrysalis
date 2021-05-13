@@ -1,0 +1,27 @@
+body {
+  background-color: #11111A;
+ color: #ffffff;
+}
+
+a {
+  color: inherit;
+}
+
+.header h1 {
+  text-align: left;
+}
+
+.menu img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+footer {
+  text-align: center;
+  margin: auto;
+  width: 350px;
+  height: auto;
+}
+
+/*Maps*/
